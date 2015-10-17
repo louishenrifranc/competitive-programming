@@ -1,0 +1,20 @@
+Trouver la sous sequence maximale dans une tableau de 2 ou de une dimension
+
+Pour des matrices:
+
+  Si la matrice est binaire: algorithme en o(n*3)	: Take the land
+  Si la matrice est normale: algorithme en o(n*4) : Maximum Sum
+  Cas part:   Si la matrice est un Torus (comme une boule) : Maximum SUm on a Torus
+	
+
+  Largest Submatrix : L'algo en O(n*3) mais avec une saisie chiante
+	
+  On ne connait pas la taille de la matrice
+	On doit travailler la ligne avant 
+
+Pour des  matrices dimension 1
+
+  Maximal consecutive subsequence : Jill Rides Again ou Jackpot
+
+
+
