@@ -9,9 +9,7 @@
 Classic Krustal Minimum Spanning Tree
 Detection de Cycle avec l'algo d'Union Set
 
-
 Premierement on a deja un MST et il faut juste calculer son cout
-
 Deuxiemement on a plein de liens et il faut calculer le cout du nouveau MST
 **/
 using namespace std;
