@@ -66,9 +66,7 @@ int main()
                     for(int j(1);j<i;j++){
                         if(tableau[i] => tableau[j])
                             ans=max(ans,1+tt[j]);
-
                     }
-
                     tt[i]=ans;
                     if(maxi<ans) maxi=ans;
                 }

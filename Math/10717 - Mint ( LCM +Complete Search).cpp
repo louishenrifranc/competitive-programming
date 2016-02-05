@@ -56,7 +56,7 @@ int main(){
                             int L2 = leg[j] / x * x;
 
                             int U2 = (leg[j] + x -1) / x * x;
-                            // Par exemple dans notre cas le LCM est toujours 400
+                            // Par exemple dans notare cas le LCM est toujours 400
                             // et on prend comme hauteur 2000 :
                             //2399 /400 =5 alors que 2400 / 400 = 6 d'ou le -1
                             if(L[j] == -1 || L2 > L[j])
@@ -75,4 +75,10 @@ int main(){
     }
 
     return 0;
+}
+
+
+
+
+
 }

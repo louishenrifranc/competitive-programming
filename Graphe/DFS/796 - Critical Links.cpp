@@ -79,7 +79,7 @@ int main()
 
 
 
-            for(int i(0); i<vv.size(); i++)
+*            for(int i(0); i<vv.size(); i++)
             {
                 pair<int,int> paire=vv[i];
                 if(paire.first>  paire.second) swap(paire.first,paire.second);

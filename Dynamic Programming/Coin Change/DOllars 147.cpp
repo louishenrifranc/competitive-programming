@@ -30,7 +30,7 @@ int main()
 void countt()
 {
 
-    int intermediaire1,n;
+    int buffer;
         // Initialize all table values as 0
     memset(table, 0, sizeof(table));
 
@@ -43,7 +43,6 @@ void countt()
     // picked coin
     for(int i=0; i<11; i++)
     {
-
         intermediaire1=valeur[i]*20;
         for(int j=intermediaire1; j<=n; j++)
 
