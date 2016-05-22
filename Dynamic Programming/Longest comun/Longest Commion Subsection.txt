@@ -1,0 +1,12 @@
+Chaine Commune
+
+Pour trouver la longueur de la chaine commune entre deux chaines, on utilise l'algorithme 
+de Needleman Wunsch en recuperant les les elements de la chaine et les stochant par leur valeur :
+
+The twins Towers
+
+
+
+Plus longue chaine croissante // DEcroissante:
+
+Trainsorting : dans les 2 sens

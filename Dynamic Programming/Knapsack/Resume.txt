@@ -1,0 +1,13 @@
+Optimiser un remplissage: Etant donner des poids et un sac, comment mettre un maximum de poids et lesquels dans le sac 
+
+Algorithme recursif naif util pour un nombre limite de poids possible, pour un nombre linmité de valeur possible et pour un 
+un poids maximum ( la capcité du sac) élevé.
+
+Algorithme DP bottom up en N * W. auvegarde dans un tableau pour un poids entr
+
+Quelque cas particulier:
+Explication de l'algo dans Cutting Trees
+
+Affichage des valeurs choisies dans CD
+
+ 

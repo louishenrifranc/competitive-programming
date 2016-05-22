@@ -1,0 +1,37 @@
+750 eCHIQUIER:
+	recursion avancée
+Argentina 11804
+	trier un vector d'une structure definie avant.
+	On surcharge l'operateur bool operator <(const struct )const{}
+	puis on utilise sort()
+Football 
+	structure , tri de structure.
+
+Wedding Shop dynamic programming enregistrer bottom up !! Un budget initial avec des 
+	depenses a faire.(corrige dans le bouquin )
+
+WordScrambler : 
+inverser des caracteres d'une phrase (string rbegin rend)
+
+Decoder:
+Travail sur les caracteres ASCII
+
+The Decadary Watch: 
+Changer de systeme decimal optimisé
+
+Kindegarten Couting Game:
+Compter le nombre de mots
+
+Matrice Chain Multiplication
+Travail sur le parenthesage et utilisation d'une pile
+
+Ternary
+Changement de base
+
+Word Index:
+Travail sur des strings a=1,z=26,ab=27..... vwxyz=...
+Boucle For original
+
+Dynamic Programming 
+~~~~~~~~~~~~~~~~~~~~
+Wedding Shop : Bottom up algorithm 

@@ -1,0 +1,15 @@
+
+Dollars 147-357 similaire : Let me count the Way-674 Coin Change
+Coins Change ( Dans le bouquin c'est le minimum que l'on recherche, alors que ici on recherche toutes les
+~~~~~~~~~~~~			possibilités)
+Algorithme super efficace. Affichage particulier avec printf
+
+
+Making Change 166
+
+DFS+ Coins CHange minimization
+
+
+Pay the price 10313 
+	Pas encore compris !! 
+	* Optimisation de la lecture d'une ligne ou l'on ne sait pas combien de parametre vont arriver

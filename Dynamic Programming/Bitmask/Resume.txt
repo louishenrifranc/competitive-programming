@@ -1,0 +1,5 @@
+Utilisation des bitmasks pour enregistrer des choix faits dans un nombre 
+combiné avec du DP
+
+ FOrming Team : creer des equipes de 2 de manière optimisé
+ Pebble Solitaire : Jeu , corrigé par moi, je ne suis pas sur de l'utilité du DP
