@@ -52,7 +52,7 @@ int main()
 	system("pause");
 	return 1;
 }
-
+*/
 
 class A {
 public:
@@ -108,7 +108,7 @@ int main()
 	return 1;
 
 }
-*/
+
 
 /*
 int main()
@@ -134,7 +134,7 @@ int main()
 }
 */
 
-
+/*
 int main()
 {
 	int A, B, C, D;
@@ -192,4 +192,4 @@ int main()
 		cout << endl;
 	}
 	return 1;
-}
+}*/
